@@ -1,0 +1,34 @@
+﻿<!DOCTYPE html>
+
+<html lang="en" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <meta charset="utf-8" />
+    <title>Ejercicio_6</title>
+</head>
+<body>
+    <form action="Manejo de Información" method="post"
+          enctype="multipart/form-data">
+        <label>Nombre de usuario: </label><br>
+        <input type="text" name="nombre" /><br>
+        <label>Edad: </label><br />
+        <input type="number" name="edad" /><br />
+        <label>Fecha de nacimiento: </label><br />
+        <input type="date" name="birth" /><br />
+        <label>Sexo: </label><br />
+        <input type="radio" name="sexo" value="Hombre" />Hombre<br />
+        <input type="radio" name="sexo" value="Mujer" />Mujer<br />
+        <input type="radio" name="sexo" value="ND" />Prefiero No Decir<br />
+        <label>Pais de Nacimiento: </label><br />
+        <select name="pais">
+            <option>Colombia</option>
+            <option>Argentina</option>
+            <option>Chile</option>
+            <option>Uruguay</option>
+            <option>Brasil</option>
+        </select>
+        <br />
+        <button type="submit">Enviar</button>
+        <button type="reset">Borrar</button>
+    </form>
+</body>
+</html>
