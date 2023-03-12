@@ -1,0 +1,30 @@
+p {
+    font-size: 1cm;
+    font-family: arial, helvetica;
+    font-weight: normal;
+}
+
+h1 {
+    font-size: 1cm;
+    font-family: verdana, arial;
+    text-decoration: underline;
+    text-align: center;
+}
+
+body {
+    background-color: #3B3B3B;
+    font-family: arial;
+    color: White;
+}
+
+ul {
+    font-size: 1cm;
+    list-style-type: none;
+    text-align: center;
+}
+
+a {
+    color: azure;
+    text-decoration: none;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
