@@ -1,0 +1,78 @@
+﻿body
+{
+}
+
+#titulo {
+    color: #17A186;
+}
+
+strong {
+    color: #E51717;
+}
+
+.destacado {
+    color: #E58A17;
+}
+
+h2 {
+    color: #171DE5;
+}
+
+a {
+    color: #E51717
+}
+
+em {
+    color: #171DE5;
+}
+
+table {
+    border-collapse: collapse;
+}
+
+#blandit{
+    color:green;
+}
+
+th{
+    color:red;
+}
+
+td{
+    color: green;
+}
+
+table,
+th,
+td {
+    border: 1px solid black;
+}
+
+th,
+td {
+    padding: 5px;
+}
+
+.especial{
+    color:yellow;
+}
+
+#purus{
+    color: yellow;
+}
+
+#adicional{
+    color: forestgreen;
+}
+
+#especial{
+    color:purple;
+}
+
+#verde {
+    color: green;
+}
+
+.especials{
+    color: purple;
+}
