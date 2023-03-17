@@ -1,0 +1,11 @@
+﻿#carta{
+    width: 10rem;
+}
+.card-body{
+    width: 33rem;
+}
+
+#producto_1{
+    margin-left: 6rem;
+    width: 25rem;
+}
