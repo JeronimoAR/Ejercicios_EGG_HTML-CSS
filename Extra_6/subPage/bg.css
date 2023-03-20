@@ -1,0 +1,7 @@
+﻿.bg-image {
+    width: 100%;
+    height: 573px;
+    background-image: url('../assets/Mountain.png');
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+}
